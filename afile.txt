@@ -1,3 +1,7 @@
 idea02
 otherguy
+<<<<<<< HEAD
 otherguy02
+=======
+firstguy
+>>>>>>> a04636add41d6975bb40bf3570307f5ac10e30d3
